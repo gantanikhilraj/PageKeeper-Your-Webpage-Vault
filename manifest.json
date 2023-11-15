@@ -1,0 +1,28 @@
+{
+    "manifest_version": 3,
+    "name": "Tab Manager",
+    "version": "2.1.2",
+    "description": "Manage and store important tabs for later.",
+    "icons": {
+      "16": "icon16.png",
+      "48": "icon48.png",
+      "128": "icon128.png"
+    },
+    "permissions": [
+      "scripting",
+      "storage",
+      "activeTab"
+    ],
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": {
+        "16": "icon16.png",
+        "48": "icon48.png",
+        "128": "icon128.png"
+      }
+    },
+    "background": {
+      "service_worker": "background.js"
+    }
+  }
+  

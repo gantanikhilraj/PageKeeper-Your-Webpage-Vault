@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Tab Manager</title>
+  <link rel="stylesheet" type="text/css" href="popup.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Tab Manager</h1>
+    <div class="form-group">
+      <input type="text" id="tabInput" placeholder="Enter URL">
+      <button id="saveTabButton">Save Tab</button>
+    </div>
+    <div id="errorText" class="error"></div>
+    <div id="tabListContainer">
+      <ul id="tabList"></ul>
+    </div>
+    <div id="noTabsMessage">No tabs saved yet.</div>
+  </div>
+  <script src="popup.js"></script>
+</body>
+</html>
+
