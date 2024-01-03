@@ -31,10 +31,6 @@ Often, we come across web pages that contain useful information but may not be i
 
 Contributions are welcome! Feel free to open issues or pull requests for bug fixes, enhancements, or new features.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Links
 
 - [GitHub Repository](https://github.com/gantanikhilraj/Tab-Manager-Extention)
