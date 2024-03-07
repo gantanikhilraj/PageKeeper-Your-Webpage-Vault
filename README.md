@@ -1,4 +1,4 @@
-# Tab Manager Extension
+# PageKeeper: Your Webpage Vault
 
 This Chrome extension is designed to manage web pages by allowing users to store them for future reference without cluttering the browser with numerous open tabs.
 
